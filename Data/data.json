@@ -1,0 +1,72 @@
+{
+  "kode": 1,
+  "pesan": "Data Tersedia",
+  "data": [
+      {
+          "NIM": "1200018293",
+          "Nama": "Anzu",
+          "Alamat": "Jakarta",
+          "Gender": "Wanita"
+      },
+      {
+          "NIM": "1300018223",
+          "Nama": "Kaiba",
+          "Alamat": "Aceh",
+          "Gender": "Pria"
+      },
+      {
+          "NIM": "1400018232",
+          "Nama": "Joey",
+          "Alamat": "Sumatra",
+          "Gender": "Pria"
+      },
+      {
+          "NIM": "1500018392",
+          "Nama": "Tristan",
+          "Alamat": "Bogor",
+          "Gender": "Pria"
+      },
+      {
+          "NIM": "1600018234",
+          "Nama": "Marik",
+          "Alamat": "Palembang",
+          "Gender": "Pria"
+      },
+      {
+          "NIM": "1700018293",
+          "Nama": "Ishuzu",
+          "Alamat": "Kyoto",
+          "Gender": "Wanita"
+      },
+      {
+          "NIM": "1800018111",
+          "Nama": "Patrick John",
+          "Alamat": "Jakarta",
+          "Gender": "Pria"
+      },
+      {
+          "NIM": "1800018322",
+          "Nama": "Bobon",
+          "Alamat": "Mars",
+          "Gender": "Pria"
+      },
+      {
+          "NIM": "1800018333",
+          "Nama": "Fulans",
+          "Alamat": "Namex",
+          "Gender": "Pria"
+      },
+      {
+          "NIM": "1800018359",
+          "Nama": "Aditya Fajri",
+          "Alamat": "Kebumen",
+          "Gender": "Pria"
+      },
+      {
+          "NIM": "1800018999",
+          "Nama": "Atem",
+          "Alamat": "Kebon Jati",
+          "Gender": "Pria"
+      }
+  ]
+}
